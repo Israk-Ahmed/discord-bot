@@ -128,5 +128,5 @@ async def clear(ctx, amount=5):
 
 #my_secret = os.environ['TOKEN']
 
-client.run(ODk2MDkyMzY2MzcxNDIyMjUw.YWCFDA.VZVcaFI8R9apOAPNWgaFYsLa-vo)
+client.run(ODk2MDkyMzY2MzcxNDIyMjUw.YWCFDA.jRtCeDzekPXXrqHc7XVoGnXSTeo)
 
