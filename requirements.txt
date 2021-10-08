@@ -18,6 +18,7 @@ click==8.0.1
 clikit==0.6.2
 colorama==0.4.4
 crashtest==0.3.1
+dependencies==7.1.0
 discord==1.7.3
 discord.py==1.7.3
 distlib==0.3.3
@@ -53,6 +54,7 @@ praw==7.4.0
 prawcore==2.3.0
 ptyprocess==0.7.0
 pycparser==2.20
+pyflakes==2.4.0
 pylev==1.4.0
 PyNaCl==1.4.0
 pyparsing==2.4.7
