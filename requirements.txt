@@ -16,6 +16,7 @@ discord==1.7.3
 discord.py==1.7.3
 env==0.1.0
 ffmpeg==1.4
+ffprobe==0.5
 Flask==2.0.2
 html2text==2020.1.16
 icanhazdadjoke==1.0.0
