@@ -74,7 +74,7 @@ async def gaanko(ctx, *, search):
             info = ydl.extract_info(url, download=False)
         URL = info['url']
         await ctx.send('Naw Shono - ' + search)
-        voice.play(FFmpegPCMAudio(URL, "mp3.mp3"))
+        voice.play(FFmpegPCMAudio(URL, **FFMPEG_OPTIONS))
         voice.is_playing()
 
 # check if the bot is already playing
