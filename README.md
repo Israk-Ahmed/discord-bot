@@ -7,11 +7,22 @@ Invite me: Copy this link and pase in your web browser https://discord.com/api/o
 
 My Commands:
 
+
 To Join: *ay
+
+
 To Play Song: *gaanko song name
+
+
 To Pause: *dara
+
+
 To Resume: *abarko
+
+
 To Stop: *chup
+
+
 To Disconnect: *vag
 
 
