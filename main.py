@@ -126,7 +126,7 @@ async def clear(ctx, amount=5):
     await ctx.send("Messages have been cleared")
 
 
-my_secret = os.environ['TOKEN']
+#my_secret = os.environ['TOKEN']
 
-client.run(my_secret)
+client.run(ODk2MDkyMzY2MzcxNDIyMjUw.YWCFDA.VZVcaFI8R9apOAPNWgaFYsLa-vo)
 
