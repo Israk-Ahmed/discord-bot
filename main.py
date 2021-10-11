@@ -20,6 +20,12 @@ async def on_ready():
     print('Bot online')
 
 
+@client.command(pass_content=True)
+async def announcekor(ctx, *, message):
+    embed = discord.Embed(title="UPDATE",description=message,color=0x9208ea)
+    await ctx.send(embed=embed)  
+    
+
 # command for bot to join the channel of the user, if the bot has already joined and is in a different channel, it will move to the channel the user is in
 @client.command()
 async def ay(ctx):
