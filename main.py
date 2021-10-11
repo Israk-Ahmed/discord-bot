@@ -37,6 +37,15 @@ async def ay(ctx):
 @client.command()
 async def gaanko(ctx, *, search):
 
+    if ctx.author.voice is None:
+      await ctx.send("Shala Age VC Te Connect Ho!")
+    voice_channel = ctx.author.voice.channel
+    if ctx.voice_client is None:
+      await voice_channel.connect()
+      await ctx.send("Ami Eshechi Tomader Gaan Shonate!")
+    else:
+      await ctx.voice_client.move_to(voice_channel)
+    
     print("1")
     print(search)
     
