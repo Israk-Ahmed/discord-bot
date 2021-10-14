@@ -1,11 +1,11 @@
 Broken Radio
 
-I'm a discord music bot.
+This is a discord music bot.
 
-Invite me: Copy this link and pase in your web browser https://discord.com/api/oauth2/authorize?client_id=895624699340521573&permissions=8&scope=bot
+Invite the bot: Copy this link and pase in your web browser https://discord.com/api/oauth2/authorize?client_id=895624699340521573&permissions=8&scope=bot
 
 
-My Commands:
+Commands:
 
 
 To Join: *ay
